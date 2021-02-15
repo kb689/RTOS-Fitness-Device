@@ -10,4 +10,5 @@ Project based on edx course: Real-Time Blootooth Networks
 
 Project Requirements:
   Keil uVision5 IDE
-  
+  TM4C123GXL Evaluation Board
+  Educational Boosterpack MKII
